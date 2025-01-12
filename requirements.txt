@@ -1,0 +1,5 @@
+Flask==2.3.2
+firebase-admin==6.1.0
+requests==2.31.0
+gunicorn==21.2.0  # Optional: If you are deploying on platforms like Heroku or Koyeb
+pytz==2023.3
